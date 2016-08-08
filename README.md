@@ -3,7 +3,7 @@ A simple nginx lua service for ip.taobao.com
 
 # Description
 
-Note that nginx [stream module](https://nginx.org/en/docs/stream/ngx_stream_core_module.html) and [ngx_stream_lua_module](https://github.com/openresty/stream-lua-nginx-module) is required.
+Note that nginx [stream module](https://nginx.org/en/docs/stream/ngx_stream_core_module.html) is required.
 
 Deploy redis and listen in 127.0.0.1 6379 for cache api result.
 
